@@ -1,4 +1,4 @@
-Title: Scorp Test Case
+Title: Scorp Case Study
 Developer: Muhammed Selman Yurtseven (mselmany@hotmail.com)
 
 ## Getting Started

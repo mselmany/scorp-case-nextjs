@@ -13,7 +13,7 @@ export default function Home() {
   const { user } = useUser();
 
   return <Center>
-    <Title bold>Scorp Test Case</Title>
+    <Title bold>Scorp Case Study</Title>
     <Spacer size={Spacing.small} column />
     {user && <Text bold>{user.name}</Text>}
     <Spacer size={Spacing.small} column />
