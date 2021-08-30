@@ -14,9 +14,9 @@ Used tech stack;
 ## Run the development server
 
 ```bash
-yarn dev
+yarn && yarn dev
 # or
-npm run dev
+npm i && npm run dev
 
 # node -v: v12.21.0, yarn -v: 1.22.10
 ```
